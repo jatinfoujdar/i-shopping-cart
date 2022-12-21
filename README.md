@@ -1,5 +1,2 @@
 # Shopping Cart
 
-
-
-
