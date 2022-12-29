@@ -14,3 +14,5 @@ HLD -  https://docs.google.com/document/d/e/2PACX-1vR8c1G4feYiqJB7_eyxU6sGsXl0kQ
 ## Document [LLD]
 LLD - https://docs.google.com/document/d/e/2PACX-1vRvL6fVEAmjblsiKKULCnOVoRNgV36JTUc5BBG0ilVCofdUOSP7RJ4Ui6lnObb97hQexCPCYHPjmb3a/pub
 
+## Architecture 
+Architecture  - https://docs.google.com/document/d/e/2PACX-1vQCp8cyi8JojPl21FB5w5PacSMn4dYVnOJJccGTVOvQGOXkJtM_ps3MmvCgFgKO-NYp88wsvguwTE9P/pub
