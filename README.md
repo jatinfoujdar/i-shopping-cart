@@ -16,3 +16,7 @@ LLD - https://docs.google.com/document/d/e/2PACX-1vRvL6fVEAmjblsiKKULCnOVoRNgV36
 
 ## Architecture 
 Architecture  - https://docs.google.com/document/d/e/2PACX-1vQCp8cyi8JojPl21FB5w5PacSMn4dYVnOJJccGTVOvQGOXkJtM_ps3MmvCgFgKO-NYp88wsvguwTE9P/pub
+
+
+## PPT
+PPT - https://docs.google.com/presentation/d/e/2PACX-1vQ5507A_Q-7Z6w5VE2I886Fc6ZnUBrKqJM1u_wWfSr_xdF88RS0oPvDTWRx2hQEtg/pub?start=true&loop=false&delayms=3000
