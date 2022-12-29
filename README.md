@@ -20,3 +20,6 @@ Architecture  - https://docs.google.com/document/d/e/2PACX-1vQCp8cyi8JojPl21FB5w
 
 ## PPT
 PPT - https://docs.google.com/presentation/d/e/2PACX-1vQ5507A_Q-7Z6w5VE2I886Fc6ZnUBrKqJM1u_wWfSr_xdF88RS0oPvDTWRx2hQEtg/pub?start=true&loop=false&delayms=3000
+
+## SC
+SC- https://docs.google.com/document/d/e/2PACX-1vS2mO54ympBjWe7422CcUDOFL5ydIVtMJd2TaKbTBSVFqZpLr2_QfHhJMY6loo6KTCd1fR-0UlVFjAP/pub
